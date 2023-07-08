@@ -1,5 +1,11 @@
-# Hi there 👋
+# Hi there! 👋
 
-My name is Meghan Channarukul. I worked as an Auditor at Big4 for 1 year after graduation. My 1st career transition had begun. I started to learn how to be a good business analyst and implemented the SAP ERP system in Financial Accounting & Treasury module—gathering requirements & Fit Gaps, designing for key data structure & To-Be processes, configuring, testing, training, data conversion, and post-support. All the above activities built me up till now. Business acumen, process and system design, project management, critical thinking & problem-solving skills are gradually shaped me.
-
-I realized that what's missing from my currently 
+8 Things, Getting to know me!
+🌱 My name is Meghan Channarukul. 
+🌱 My first job was as an Auditor at Big 4, then became a SAP Finance Consultant. 
+🌱 Business Domain: Manufacturing, Financial Services, and Trade Operations.
+🌱 I started as a business analyst who was strong in business performance improvement but not good at programming. 
+🌱 I believe in a good combination of business understanding & technicals aspect.
+🌱 I am currently dedicated to re-learning and practicing data analytics.
+🌱 I focus on 3 skills: MSSQL, Python, and Tableau.
+🌱 I feel inspired in deep diving into the insurance industry, especially customer data in demographics, claims, and marketing.
